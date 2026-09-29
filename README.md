@@ -18,3 +18,5 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 - HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 ## UML Diagram:
+<img width="5159" height="3790" alt="Valet Service Flow for str-2026-09-29-113541" src="https://github.com/user-attachments/assets/090c2199-0907-470f-8757-786fd29e2e37" />
+
